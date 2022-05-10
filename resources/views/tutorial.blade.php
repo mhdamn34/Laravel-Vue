@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Laravel Vue SPA</title>
+    <link rel="stylesheet" text="text/css" href="{{ asset('../css/app.css')}}">
     <style>
         body{
             font-family: sans-serif;
